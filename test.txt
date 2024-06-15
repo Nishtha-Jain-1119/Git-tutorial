@@ -1,1 +1,1 @@
-This is demo and some changes in new branch
+This is demo and some changes in new branch with some merge conflict.
